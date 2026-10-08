@@ -1,4 +1,39 @@
-# Notebook Workspace
-1. Install Node.js 18+
-2. In this folder run: `npm install`
-3. Then: `npm run dev` and open the URL it prints (usually http://localhost:5173)
+Notebook Workspace
+-------------------------------------
+A simple Notion-style notes app that runs in your browser. Write notes, organize them into pages and sub-pages, and everything is saved automatically on your computer. No server and no login.
+-------------------------------------
+Built with React and Vite.
+-------------------------------------
+Features
+Create, rename, duplicate and delete pages (with sub-pages)
+Block editor: Text, Heading, Checklist, Code, Quote, Image, Table
+Markdown shortcuts: #  heading, >  quote, -  checklist, ` code
+Drag and drop to reorder blocks and move pages
+Search across all pages (Ctrl + K)
+Undo / Redo (Ctrl + Z, Ctrl + Shift + Z)
+Autosave in the browser (LocalStorage)
+Light and dark mode
+How to run
+--------------------------------------
+You need Node.js 18 or newer.
+--------------------------------------
+npm install
+npm run dev
+--------------------------------------
+Then open http://localhost:5173
+--------------------------------------
+Note
+--------------------------------------
+Data is saved only in your browser. Clearing browser data deletes your notes.
+--------------------------------------
+Artifacts
+Notion workspace
+Code·HTML 
+Notion workspace
+ZIP 
+Readme
+Document·MD 
+Content
+--------------------------------------
+Notion-Like Productivity & Knowledge Management App in progress Description Build a frontend-only Notion-inspired productivity and knowledge-management application using React. The goal is to create a modern, interactive workspace where users can create pages, organize nested pages, and manage co
+PASTED
