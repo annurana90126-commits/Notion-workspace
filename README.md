@@ -20,7 +20,9 @@ You need Node.js 18 or newer.
 npm install
 npm run dev
 --------------------------------------
-Then open http://localhost:5173
+Then open http://localhost:5173. If you are using visual studio code editor.Then click on URL which presenet in a Terminal. After click the URL their is a follow link button. Press that button project is easily open in your visual studio code editor screen.
+
+Their is one more option. Copy the URL and paste your browser. Project should be run easily.
 --------------------------------------
 Note
 --------------------------------------
